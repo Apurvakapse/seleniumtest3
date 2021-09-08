@@ -1,1 +1,2 @@
-# seleniumtest3
+# selenium-demo
+selenium testcases in testNg framework
